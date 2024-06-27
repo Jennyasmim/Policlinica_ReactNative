@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "teste_app",
-    "slug": "teste_app",
+    "name": "poli_app",
+    "slug": "poli_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
